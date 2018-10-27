@@ -54,9 +54,9 @@ class RulesUI extends PluginBase implements Listener{
             }
         });
         $form->setContent("test content title");
-        $form->addButton("§cExit", 0);
-        $form->addButton("lobby", 1);
-        $form->addButton("kill", 2);
+        $form->addButton("§cExit");
+        $form->addButton("lobby");
+        $form->addButton("kill");
         $form->sendToPlayer($sender);
         }
         return true;

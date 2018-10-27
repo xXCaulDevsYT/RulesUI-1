@@ -1,6 +1,6 @@
 <?php
 
-namespace RulesUI;
+namespace RulesUI\Rule;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;

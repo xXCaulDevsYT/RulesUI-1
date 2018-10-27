@@ -1,0 +1,10 @@
+name: RulesUI
+main: RulesUI\Main
+api: [3.0.0, 3.1.0, 3.1.1, 3.1.4, 4.0.0]
+version: 1.0
+author: Pandaz
+description: RulesUI
+commands:
+ ecoui:
+  usage: /test
+  description: Open  

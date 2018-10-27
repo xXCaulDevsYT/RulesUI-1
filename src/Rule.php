@@ -15,7 +15,7 @@ use pocketmine\Player;
 use pocketmine\Server;
 use RulesUI\Main;
 
-class RulesUI\Rule extends PluginBase implements Listener{
+class RulesUI extends PluginBase implements Listener{
     
     public function onEnable(){
         $this->getLogger()->info("§aStarting Test plugin...");

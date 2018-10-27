@@ -13,7 +13,7 @@ use pocketmine\event\player\PlayerCommandPreprocessEvent;
 use pocketmine\event\server\ServerCommandEvent;
 use pocketmine\Player;
 use pocketmine\Server;
-use Test\Main;
+use RulesUI\Main;
 
 class Main extends PluginBase implements Listener{
     
